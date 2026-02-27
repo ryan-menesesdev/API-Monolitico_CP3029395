@@ -6,7 +6,7 @@
 
 Utilizando HTTPS:
 ```bash
-git clone [https://github.com/ryan-menesesdev/API-Monolitico_CP3029395.git](https://github.com/ryan-menesesdev/API-Monolitico_CP3029395.git)
+git clone https://github.com/ryan-menesesdev/API-Monolitico_CP3029395.git
 
 ```
 
@@ -40,7 +40,7 @@ node src/app.js
 
 ---
 
-## 📡 Rotas da API
+## Rotas da API
 
 Utilizar o **ThunderClient** ou o **Postman** para testar as seguintes rotas a partir de "http://localhost:3000":
 
@@ -54,7 +54,7 @@ Utilizar o **ThunderClient** ou o **Postman** para testar as seguintes rotas a p
 
 ---
 
-## 🗄️ Banco de Dados
+## Banco de Dados
 
 Ao inicializar o projeto, o banco de dados é criado automaticamente.
-Para visualizar a tabale e os dados salvos pode se utilizar ferramentas como o DBeaver para ler o arquivo
+Para visualizar a tabale e os dados salvos pode se utilizar ferramentas como o **DBeaver** para ler o arquivo
