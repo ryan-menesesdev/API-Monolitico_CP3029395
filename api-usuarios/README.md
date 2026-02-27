@@ -1,4 +1,3 @@
-```markdown
 # Quiz 02 - Aplicação de API - Arquitetura Monolitica
 
 ## Como baixar e rodar o projeto
